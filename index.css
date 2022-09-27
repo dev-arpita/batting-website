@@ -488,7 +488,7 @@ font-size: 5rem;
 .footer {
     background: var(--clr-black);
     justify-content: space-between;
-    padding: 0 15rem;
+    padding: 0 20rem;
 }
 .connect-us {
     justify-content: start;
