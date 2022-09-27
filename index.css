@@ -151,12 +151,12 @@ a {
     word-spacing: 1px;
 }
 .service-box {
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     background: var(--clr-primary);
     border: 2px solid var(--clr-border);
-    padding: 2rem;
-    margin: 2rem;
+    padding: 1rem;
+    margin-right: 2rem;
     border-radius: var(--border-radius);
     box-shadow: inset 0 0 20px var(--clr-border);
 }
@@ -398,7 +398,7 @@ a {
     box-shadow: inset 0 0 15px var(--clr-border);
 }
 .first-row .game-time__format {
-    margin-right: 3rem;
+    margin-right: 2.5rem;
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
 }
@@ -415,7 +415,7 @@ a {
     border-bottom-left-radius: 50px;
 }
 .next-row .game-time__format {
-    margin-left: 3rem;
+    margin-left: 2.5rem;
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
 }
@@ -439,7 +439,7 @@ margin-left: 2rem;
 /*FAQ-panel*/
 
 .faq-panel {
-    padding: 1rem 20rem 8rem;
+    padding: 1rem 10rem 8rem;
 }
 .faq__heading{
 font-size: 5rem;
@@ -488,7 +488,7 @@ font-size: 5rem;
 .footer {
     background: var(--clr-black);
     justify-content: space-between;
-    padding: 0 20rem;
+    padding: 0 10rem;
 }
 .connect-us {
     justify-content: start;
